@@ -1,2 +1,2 @@
-Este projeto consiste de um exemplo de suite de testes automatizados para o website <a href="https://contador.andreluizmelo.com"><i>Contador de Garoteadas</i></a>, criado pelo usuário <a href="https://github.com/andreluizmelo">André Luiz Melo</a>.</br>
+Este projeto consiste de um suite de testes automatizados para o website <a href="https://contador.andreluizmelo.com"><i>Contador de Garoteadas</i></a>, criado pelo usuário <a href="https://github.com/andreluizmelo">André Luiz Melo</a>.</br>
 Foram utilizadas as ferramentas <a href="https://github.com/nunit">NUnit</a> e <a href="https://github.com/SeleniumHQ">Selenium WebDriver</a> com o pattern Page Object Model.
