@@ -47,8 +47,7 @@ namespace ContadorAndreLuizMelo.Pages
         {
             if (success)
                 return _successMessage.Displayed;
-            else
-                return _errorMessage.Displayed;
+            return _errorMessage.Displayed;
         }
 
         public string TimeSinceLastGaroteada => _textTimePassed.Text;
